@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Color Hunt palette: https://colorhunt.co/palette/e8edf22c3947547a95c2a56d -->
+    <color name="palette_background">#E8EDF2</color>
+    <color name="palette_primary_dark">#2C3947</color>
+    <color name="palette_primary">#547A95</color>
+    <color name="palette_accent">#C2A56D</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="success">#1B7F4A</color>
+    <color name="danger">#B3261E</color>
+    <color name="warning">#8A6500</color>
+    <color name="card_light">#FDFEFE</color>
+    <color name="field_border">#D5DCE4</color>
+</resources>

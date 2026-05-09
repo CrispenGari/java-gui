@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.LabAccess" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/palette_primary_dark</item>
+        <item name="colorPrimaryVariant">@color/palette_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/palette_accent</item>
+        <item name="colorOnSecondary">@color/palette_primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/palette_primary_dark</item>
+        <item name="android:navigationBarColor">@color/palette_primary_dark</item>
+        <item name="fontFamily">sans</item>
+        <item name="shapeAppearanceSmallComponent">@style/Shape.Rounded</item>
+        <item name="shapeAppearanceMediumComponent">@style/Shape.Rounded</item>
+    </style>
+
+    <style name="Shape.Rounded" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="Widget.LabAccess.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">16dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>

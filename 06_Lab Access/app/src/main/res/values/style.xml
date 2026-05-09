@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GentiumPlusBold">
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+    <style name="GentiumPlusRegular">
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+    <style name="GentiumPlusItalic">
+        <item name="android:fontFamily">@font/italic</item>
+    </style>
+</resources>
